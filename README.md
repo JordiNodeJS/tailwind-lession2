@@ -1,3 +1,4 @@
+[view live](https://jordinodejs.github.io/tailwind-lession2/)
 # template-vite-js-tailwind-v3
 
 -   [Revisa el proyecto final aquí](https://serene-semolina-8caf65.netlify.app/)
